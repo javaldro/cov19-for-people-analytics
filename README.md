@@ -1,5 +1,5 @@
 # Covid-19 Insights for People Analytics
-Aggregating covid-19 data into an easily usable and refreshable format for people analytics professionals.
+Aggregating covid-19 data into an easily usable and refreshable format for people analytics professionals. This will help with the tracking of covid-19 incidence and acceleration on a daily basis in states where you have employees, highlighting different situations with different needs
 
 ## State-level dataset key fields
 Cases per hundred thousand: # of confirmed coronavirus cases per 100,000 residents of state <br/>
